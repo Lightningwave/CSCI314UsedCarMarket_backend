@@ -1,0 +1,11 @@
+/Users/van/Documents/Used_car_marketplace/src/main/java/com/usedcardealer/UsedCarMarketplaceApplication.java
+/Users/van/Documents/Used_car_marketplace/src/main/java/com/usedcardealer/config/WebConfig.java
+/Users/van/Documents/Used_car_marketplace/src/main/java/com/usedcardealer/control/LoanCalculationService.java
+/Users/van/Documents/Used_car_marketplace/src/main/java/com/usedcardealer/control/LoginController.java
+/Users/van/Documents/Used_car_marketplace/src/main/java/com/usedcardealer/control/LogoutController.java
+/Users/van/Documents/Used_car_marketplace/src/main/java/com/usedcardealer/entity/FavoriteCarId.java
+/Users/van/Documents/Used_car_marketplace/src/main/java/com/usedcardealer/entity/FavoriteCarList.java
+/Users/van/Documents/Used_car_marketplace/src/main/java/com/usedcardealer/entity/Review.java
+/Users/van/Documents/Used_car_marketplace/src/main/java/com/usedcardealer/entity/UsedCarListing.java
+/Users/van/Documents/Used_car_marketplace/src/main/java/com/usedcardealer/entity/User.java
+/Users/van/Documents/Used_car_marketplace/src/main/java/com/usedcardealer/entity/UserProfile.java
